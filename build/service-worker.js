@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jenniekibiri/Agenda-app/precache-manifest.8aab455184cdcce243c528eb6cbf5778.js"
+  "/jenniekibiri/Agenda-app/precache-manifest.28e234b711dc92549be6c27fd64a472e.js"
 );
 
 workbox.clientsClaim();
